@@ -1,0 +1,32 @@
+[
+
+{
+  "First Name":"RAM",                                                                       
+  "Last Name":"SHARMA",
+  "Photo":"http://openedx.forsk.in/c4x/IIIT_Kota/CSP110/asset/sample.jpg",
+  "Department":"Information Technology",
+  "Research Areas":["Science","Mathematics"],
+  "Contact Details":["+9123456789","xyz@gmail.com"]
+  },
+  
+  
+{
+  "First Name":"GEETA",                                                                       
+  "Last Name":"MALLIK",
+  "Photo":"http://openedx.forsk.in/c4x/IIIT_Kota/CSP110/asset/sample.jpg",
+  "Department":"Information Technology",
+  "Research Areas":"Science",
+  "Contact Details":["+9123456789","abc@gmail.com"]
+  },
+  
+  
+  {
+   "First Name":"ARUN",                                                                       
+  "Last Name":"KAPOOR",
+  "Photo":"http://openedx.forsk.in/c4x/IIIT_Kota/CSP110/asset/sample.jpg",
+  "Department":"COMPUTER SCIENCE",
+  "Research Areas":["Internet Of Things","Machine Learning"],
+  "Contact Details":["+9123456789","fgh@gmail.com","+91234164578"]
+  }
+  
+  ]
